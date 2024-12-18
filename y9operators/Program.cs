@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            int x = 3;
-            int y = 4;
-            int z = 5;
+            int x = 20;
+            int y = 19;
+            int z = 3;
             if (x <= y || z > y) {
                 Console.WriteLine("hello :3");
             }
