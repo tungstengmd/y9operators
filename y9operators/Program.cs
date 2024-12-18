@@ -6,7 +6,8 @@
         {
             int x = 3;
             int y = 4;
-            if (x < y) {
+            int z = 5;
+            if (x <= y || z > y) {
                 Console.WriteLine("hello :3");
             }
             else {
